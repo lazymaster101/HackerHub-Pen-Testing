@@ -127,3 +127,9 @@ This project helped reinforce that many vulnerabilities come from a small set of
 ## Disclaimer
 
 This work was completed for an authorized academic CTF-style assignment. The code and writeup are shared to demonstrate technical learning and security-analysis ability. Do not use this material to attack systems, bypass access controls, or violate academic integrity policies.
+
+## Demo Video
+
+A short walkthrough of the project is available below:
+
+[![Watch the HackerHub CTF demo](https://img.youtube.com/vi/tk7T0ziCS28/0.jpg)](https://youtu.be/tk7T0ziCS28)
