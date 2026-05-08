@@ -103,7 +103,6 @@ Example project files include:
 │   └── search.php     # Search API
 ├── js/
 │   └── app.js         # Client-side dashboard/profile logic
-└── report/            # Vulnerability report or redacted writeup
 ```
 
 > Note: The exact structure may differ depending on how the assignment files are organized locally.
